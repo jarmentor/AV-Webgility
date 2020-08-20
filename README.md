@@ -4,5 +4,5 @@
 
 ## Table of Contents
 
-[Common Tasks]('CommonTasks.md')
+[Common Tasks](https://github.com/jarmentor/AV-Webgility/blob/main/CommonTasks.md)
 
