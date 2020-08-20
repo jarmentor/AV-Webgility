@@ -1,4 +1,8 @@
 # AV Webgility Useful Information
 
-[Common Tasks]('./CommonTasks.md')
+
+
+## Table of Contents
+
+[Common Tasks]('CommonTasks.md')
 
